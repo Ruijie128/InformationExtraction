@@ -1,0 +1,6 @@
+C:\四元组提取\match\match\bin\Debug\match.exe.config
+C:\四元组提取\match\match\bin\Debug\match.exe
+C:\四元组提取\match\match\bin\Debug\match.pdb
+C:\四元组提取\match\match\obj\Debug\match.csprojResolveAssemblyReference.cache
+C:\四元组提取\match\match\obj\Debug\match.exe
+C:\四元组提取\match\match\obj\Debug\match.pdb
