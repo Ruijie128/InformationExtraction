@@ -1,0 +1,6 @@
+C:\Users\zhangruijie\Desktop\toSpatialDataRuijie\toSpatialDataRuijie\bin\Debug\toSpatialDataRuijie.exe.config
+C:\Users\zhangruijie\Desktop\toSpatialDataRuijie\toSpatialDataRuijie\obj\Debug\toSpatialDataRuijie.csprojResolveAssemblyReference.cache
+C:\Users\zhangruijie\Desktop\toSpatialDataRuijie\toSpatialDataRuijie\bin\Debug\toSpatialDataRuijie.exe
+C:\Users\zhangruijie\Desktop\toSpatialDataRuijie\toSpatialDataRuijie\bin\Debug\toSpatialDataRuijie.pdb
+C:\Users\zhangruijie\Desktop\toSpatialDataRuijie\toSpatialDataRuijie\obj\Debug\toSpatialDataRuijie.exe
+C:\Users\zhangruijie\Desktop\toSpatialDataRuijie\toSpatialDataRuijie\obj\Debug\toSpatialDataRuijie.pdb
