@@ -1,0 +1,60 @@
+E:\users\zhang Ruijie\张老师项目\sentenceAnalysis\sentenceAnalysis\obj\Debug\sentenceAnalysis.Form1.resources
+E:\users\zhang Ruijie\张老师项目\sentenceAnalysis\sentenceAnalysis\obj\Debug\sentenceAnalysis.Properties.Resources.resources
+E:\users\zhang Ruijie\张老师项目\sentenceAnalysis\sentenceAnalysis\obj\Debug\sentenceAnalysis.csproj.GenerateResource.Cache
+E:\users\zhang Ruijie\张老师项目\sentenceAnalysis\sentenceAnalysis\bin\Debug\sentenceAnalysis.exe.config
+E:\users\zhang Ruijie\张老师项目\sentenceAnalysis\sentenceAnalysis\bin\Debug\sentenceAnalysis.exe
+E:\users\zhang Ruijie\张老师项目\sentenceAnalysis\sentenceAnalysis\bin\Debug\sentenceAnalysis.pdb
+E:\users\zhang Ruijie\张老师项目\sentenceAnalysis\sentenceAnalysis\obj\Debug\sentenceAnalysis.exe
+E:\users\zhang Ruijie\张老师项目\sentenceAnalysis\sentenceAnalysis\obj\Debug\sentenceAnalysis.pdb
+E:\users\zhang Ruijie\张老师项目\sentenceAnalysis\sentenceAnalysis\bin\Debug\MySql.Data.dll
+E:\users\zhang Ruijie\张老师项目\sentenceAnalysis\sentenceAnalysis\bin\Debug\Npgsql.dll
+E:\users\zhang Ruijie\张老师项目\sentenceAnalysis\sentenceAnalysis\bin\Debug\Mono.Security.dll
+E:\users\zhang Ruijie\张老师项目\sentenceAnalysis\sentenceAnalysis\obj\Debug\sentenceAnalysis.csprojResolveAssemblyReference.cache
+D:\Ruijie\users\zhang Ruijie\张老师项目\sentenceAnalysis\sentenceAnalysis\bin\Debug\sentenceAnalysis.exe.config
+D:\Ruijie\users\zhang Ruijie\张老师项目\sentenceAnalysis\sentenceAnalysis\obj\Debug\sentenceAnalysis.exe
+D:\Ruijie\users\zhang Ruijie\张老师项目\sentenceAnalysis\sentenceAnalysis\obj\Debug\sentenceAnalysis.pdb
+D:\Ruijie\users\zhang Ruijie\张老师项目\sentenceAnalysis\sentenceAnalysis\bin\Debug\sentenceAnalysis.exe
+D:\Ruijie\users\zhang Ruijie\张老师项目\sentenceAnalysis\sentenceAnalysis\bin\Debug\sentenceAnalysis.pdb
+D:\Ruijie\users\zhang Ruijie\张老师项目\sentenceAnalysis\sentenceAnalysis\bin\Debug\Npgsql.dll
+D:\Ruijie\users\zhang Ruijie\张老师项目\sentenceAnalysis\sentenceAnalysis\bin\Debug\Mono.Security.dll
+D:\Ruijie\users\zhang Ruijie\张老师项目\sentenceAnalysis\sentenceAnalysis\obj\Debug\sentenceAnalysis.csprojResolveAssemblyReference.cache
+D:\Ruijie\users\zhang Ruijie\张老师项目\sentenceAnalysis\sentenceAnalysis\obj\Debug\sentenceAnalysis.Form1.resources
+D:\Ruijie\users\zhang Ruijie\张老师项目\sentenceAnalysis\sentenceAnalysis\obj\Debug\sentenceAnalysis.Properties.Resources.resources
+D:\Ruijie\users\zhang Ruijie\张老师项目\sentenceAnalysis\sentenceAnalysis\obj\Debug\sentenceAnalysis.csproj.GenerateResource.Cache
+C:\work\Ruijie\sentenceAnalysis\sentenceAnalysis\bin\Debug\sentenceAnalysis.exe.config
+C:\work\Ruijie\sentenceAnalysis\sentenceAnalysis\obj\Debug\sentenceAnalysis.exe
+C:\work\Ruijie\sentenceAnalysis\sentenceAnalysis\obj\Debug\sentenceAnalysis.pdb
+C:\work\Ruijie\sentenceAnalysis\sentenceAnalysis\bin\Debug\sentenceAnalysis.exe
+C:\work\Ruijie\sentenceAnalysis\sentenceAnalysis\bin\Debug\sentenceAnalysis.pdb
+C:\work\Ruijie\sentenceAnalysis\sentenceAnalysis\bin\Debug\Mono.Security.dll
+C:\work\Ruijie\sentenceAnalysis\sentenceAnalysis\obj\Debug\sentenceAnalysis.csprojResolveAssemblyReference.cache
+C:\work\Ruijie\sentenceAnalysis\sentenceAnalysis\obj\Debug\sentenceAnalysis.Form1.resources
+C:\work\Ruijie\sentenceAnalysis\sentenceAnalysis\obj\Debug\sentenceAnalysis.Properties.Resources.resources
+C:\work\Ruijie\sentenceAnalysis\sentenceAnalysis\obj\Debug\sentenceAnalysis.csproj.GenerateResource.Cache
+C:\work\Ruijie\sentenceAnalysis\sentenceAnalysis - 副本\bin\Debug\sentenceAnalysis.exe.config
+C:\work\Ruijie\sentenceAnalysis\sentenceAnalysis - 副本\obj\Debug\sentenceAnalysis.exe
+C:\work\Ruijie\sentenceAnalysis\sentenceAnalysis - 副本\obj\Debug\sentenceAnalysis.pdb
+C:\work\Ruijie\sentenceAnalysis\sentenceAnalysis - 副本\bin\Debug\sentenceAnalysis.exe
+C:\work\Ruijie\sentenceAnalysis\sentenceAnalysis - 副本\bin\Debug\sentenceAnalysis.pdb
+C:\work\Ruijie\sentenceAnalysis\sentenceAnalysis - 副本\obj\Debug\sentenceAnalysis.csprojResolveAssemblyReference.cache
+C:\work\Ruijie\sentenceAnalysis\sentenceAnalysis - 副本\obj\Debug\sentenceAnalysis.Form1.resources
+C:\work\Ruijie\sentenceAnalysis\sentenceAnalysis - 副本\obj\Debug\sentenceAnalysis.Properties.Resources.resources
+C:\work\Ruijie\sentenceAnalysis\sentenceAnalysis - 副本\obj\Debug\sentenceAnalysis.csproj.GenerateResource.Cache
+E:\My Project\地理空间要素的信息搜索引擎研究\程序\四元组提取\sentenceAnalysis - 副本\bin\Debug\sentenceAnalysis.exe.config
+E:\My Project\地理空间要素的信息搜索引擎研究\程序\四元组提取\sentenceAnalysis - 副本\obj\Debug\sentenceAnalysis.exe
+E:\My Project\地理空间要素的信息搜索引擎研究\程序\四元组提取\sentenceAnalysis - 副本\obj\Debug\sentenceAnalysis.pdb
+E:\My Project\地理空间要素的信息搜索引擎研究\程序\四元组提取\sentenceAnalysis - 副本\bin\Debug\sentenceAnalysis.exe
+E:\My Project\地理空间要素的信息搜索引擎研究\程序\四元组提取\sentenceAnalysis - 副本\bin\Debug\sentenceAnalysis.pdb
+E:\My Project\地理空间要素的信息搜索引擎研究\程序\四元组提取\sentenceAnalysis - 副本\obj\Debug\sentenceAnalysis.csprojResolveAssemblyReference.cache
+E:\My Project\地理空间要素的信息搜索引擎研究\程序\四元组提取\sentenceAnalysis - 副本\obj\Debug\sentenceAnalysis.Form1.resources
+E:\My Project\地理空间要素的信息搜索引擎研究\程序\四元组提取\sentenceAnalysis - 副本\obj\Debug\sentenceAnalysis.Properties.Resources.resources
+E:\My Project\地理空间要素的信息搜索引擎研究\程序\四元组提取\sentenceAnalysis - 副本\obj\Debug\sentenceAnalysis.csproj.GenerateResource.Cache
+C:\四元组提取\sentenceAnalysis - 副本\bin\Debug\sentenceAnalysis.exe.config
+C:\四元组提取\sentenceAnalysis - 副本\obj\Debug\sentenceAnalysis.exe
+C:\四元组提取\sentenceAnalysis - 副本\obj\Debug\sentenceAnalysis.pdb
+C:\四元组提取\sentenceAnalysis - 副本\obj\Debug\sentenceAnalysis.csprojResolveAssemblyReference.cache
+C:\四元组提取\sentenceAnalysis - 副本\obj\Debug\sentenceAnalysis.Form1.resources
+C:\四元组提取\sentenceAnalysis - 副本\obj\Debug\sentenceAnalysis.Properties.Resources.resources
+C:\四元组提取\sentenceAnalysis - 副本\obj\Debug\sentenceAnalysis.csproj.GenerateResource.Cache
+C:\四元组提取\sentenceAnalysis - 副本\bin\Debug\sentenceAnalysis.exe
+C:\四元组提取\sentenceAnalysis - 副本\bin\Debug\sentenceAnalysis.pdb
